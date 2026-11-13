@@ -1,0 +1,21 @@
+# Visual Studio 编译产物
+Debug/
+Release/
+x64/
+ipch/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.aps
+*.ncb
+*.plg
+*.tlog
+*.log
